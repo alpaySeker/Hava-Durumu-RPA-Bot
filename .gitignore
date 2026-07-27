@@ -1,0 +1,8 @@
+.settings/
+.tmh/
+.project/
+.entities/
+.objects/
+.screenshots/
+.templates/
+*.bak
